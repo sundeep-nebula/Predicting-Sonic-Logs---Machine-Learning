@@ -30,8 +30,8 @@ import os
 import sys
 import numpy as np
 #sys.path.insert(0,'F:/python_libraries')
-from linear_regression.costfunc import computeCostMulti as cc
-
+#from linear_regression.costfunc import computeCostMulti as cc
+import costfunc as cc
 #### CODE FOR GRADIENT DESCENT #####
 #for i in xrange(num_iter):
 #    a=np.matmul(np.transpose(X),X)
