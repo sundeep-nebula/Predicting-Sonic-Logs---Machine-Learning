@@ -1,2 +1,2 @@
 ### Manuscript 
-$\alpha$
+## $\alpha$
