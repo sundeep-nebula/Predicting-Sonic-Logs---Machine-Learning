@@ -29,16 +29,7 @@ cost function values given X,y and initian theta values.
 import os
 import sys
 import numpy as np
-#sys.path.insert(0,'F:/python_libraries')
-#from linear_regression.costfunc import computeCostMulti as cc
 import costfunc as cc
-#### CODE FOR GRADIENT DESCENT #####
-#for i in xrange(num_iter):
-#    a=np.matmul(np.transpose(X),X)
-#    b= np.dot(np.transpose(X),y)
-#    delta=(1./m)*(np.dot(a,theta)-b)
-#    theta=theta-np.dot(alpha,delta)
-##    print theta
 
 
 
